@@ -1,8 +1,12 @@
-# Native Stuff 06
+# React Native Video Download and Playing
 
 - downloading files
 - playing videos
 - gesture areas
+
+## Description
+
+React native mobile app that downloads videos from api, plays and uses gestures to create alerts with timestamps.
 
 ## Environment Variables
 
