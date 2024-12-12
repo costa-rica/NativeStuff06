@@ -3,6 +3,7 @@
 - downloading files
 - playing videos
 - gesture areas
+- Expo SDK 52
 
 ## Description
 
